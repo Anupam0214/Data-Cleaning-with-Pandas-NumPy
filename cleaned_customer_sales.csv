@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Gender,PurchaseAmount,JoinDate,Country,SpenderCategory
+101,Ankit,25.0,Male,2500.0,2021-01-05,India,Low
+102,Seema,27.75,Female,2500.0,2020-11-11,Unknown,Low
+103,Aman,27.0,Not Specified,3400.0,2021-03-15,India,High
+104,Seema,30.0,Female,2500.0,2020-11-11,India,Low
+105,Unknown,29.0,Male,1900.0,2022-02-25,India,Low
